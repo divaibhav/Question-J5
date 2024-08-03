@@ -1,3 +1,5 @@
+package design.one;
+
 public class MyUtility {
     public static int countVowel(UserName userName){
         int response = 0;
