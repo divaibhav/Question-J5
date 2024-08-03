@@ -42,3 +42,8 @@ This class have parametrized and non parametrized constructors.
         
         this is valid as 4th letter is P and 5th Letter S is surname initial.
         ```
+        
+- Create a class MyMain, which contains the main method and perform the following tasks:
+  - Create Address objects by accepting details from user and validate them.
+  - Create Employee object by accepting employee details from use and by supplying validated address objects.
+  - print the Employee details, with address.
