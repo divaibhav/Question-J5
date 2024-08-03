@@ -1,3 +1,5 @@
+package design.one;
+
 public class UserName {
     private String firstName;
     private String lastName;
