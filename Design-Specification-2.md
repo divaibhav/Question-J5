@@ -26,7 +26,7 @@ This class have parametrized and non parametrized constructors.
   public static boolean isValidAddress(Address address) 
   ```
     - this method will check if the address is valid or not, if valid it will return true otherwise false. Validation rule for address are as follows
-      - a valid address have 6 digits 
+      - a valid address have 6 digits in pin code
       - a valid address have positive flat number
 
   ```
