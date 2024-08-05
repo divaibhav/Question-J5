@@ -33,6 +33,7 @@ This class have parametrized and non parametrized constructors.
   public static boolean isValidPanCard(Employee employee)
   ```
     - this method will check if the pan card is valid or not, if valid it will return true otherwise false Validation rule for pan card are as follows:
+      - a pan card must have 10 characters
       - a pan card is valid if the 4th letter of pan card is 'p' or 'P'
       - a pan card is valid if the 5th letter of pan card is Surname initial
       - ```
