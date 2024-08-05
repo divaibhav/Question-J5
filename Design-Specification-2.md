@@ -1,5 +1,5 @@
 #### Design the application using the following specification
-- Create an Address class, which contains following field int flat number, String building name, String locality, String city, String district, String state, String country and int pin code.
+- Create an design.two.Address class, which contains following field int flat number, String building name, String locality, String city, String district, String state, String country and int pin code.
 Address class must be properly encapsulated. This class will contain a method fullAddress() that will not accept any parameter, but return full address
 as per the below format. This class have parametrized and non parametrized constructors.
   ```
@@ -17,7 +17,7 @@ as per the below format. This class have parametrized and non parametrized const
   410, Speaking Tree Tower, Gandhidham, Ramghar, District - Sippy, Madhya Pradesh, India, Pincode - 462058
   ```
   
-- Create an Employee class, which contains following fields of given types String name, String email, String pan card number, String mobile,
+- Create an design.two.Employee class, which contains following fields of given types String name, String email, String pan card number, String mobile,
 Address permanent address, Address present address and Address communication address. Employee class must be properly encapsulated.
 This class have parametrized and non parametrized constructors.
 
@@ -43,7 +43,7 @@ This class have parametrized and non parametrized constructors.
         this is valid as 4th letter is P and 5th Letter S is surname initial.
         ```
         
-- Create a class design.one.MyMain, which contains the main method and perform the following tasks:
+- Create a class design.two.MyMain, which contains the main method and perform the following tasks:
   - Create Address objects by accepting details from user and validate them.
   - Create Employee object by accepting employee details from use and by supplying validated address objects.
   - print the Employee details, with address.
